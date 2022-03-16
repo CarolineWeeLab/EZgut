@@ -1,5 +1,11 @@
 # EZgut
-Machine learning-based larval zebrafish gut segmentation for gut fluorescence (food intake) quantification
+Machine learning-based larval zebrafish gut segmentation for gut fluorescence (food intake) quantification.
+
+We have improved upon [this](https://elifesciences.org/articles/43775) previous thresholding protocol for gut fluorescence quantification. Critically, EZgut does not face the problem of data loss in low feeding conditions.
+
+![Graphical abstract](./graphical_abstract.svg)
+
+See our publication for more details. (add link to paper)
 
 We have trained Detectron2's [Pointrend](https://github.com/facebookresearch/detectron2/tree/main/projects/PointRend) on our custom dataset of brightfield images of larval zebrafish. The trained model is available via [Google Drive](https://drive.google.com/file/d/1-4Mr0_6xhiZh5QW7IjN8P-Jx1UKQBxbG/view?usp=sharing).
 
