@@ -6,11 +6,11 @@ We have trained Detectron2's [Pointrend](https://github.com/facebookresearch/det
 The Google Colab notebook [MaskPrediction_GutFluorescence](./MaskPrediction_FluorescenceAnalysis_v1.ipynb) includes prediction of segmentation masks for the larval zebrafish guts as well as fluroscence analysis to quantify food intake. The [examples folder](./examples/) contains sets of brightfield (BF) and fluorescence (Cy5) images as well as a folder of BF masks that have been curated for any prediction errors. Please note that mask predictions are not always perfect and critical errors require correction by manual ROI drawing in external software such as ImageJ.
 
 ### License
-
+See full license details [here](./LICENSE)
 
 ### Acknowledgements
-For help in annotating ground truth data: Chua Kai Xin, Gaynah Doblado, Wen Lie
-For help in code testing: Guan Zhen
+* For help in annotating ground truth data: Chua Kai Xin, Gaynah Doblado, Wen Lie
+* For help in code testing: Guan Zhen
 
 ### Questions
 Please contact:
