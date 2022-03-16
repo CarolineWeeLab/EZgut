@@ -3,7 +3,7 @@ Machine learning-based larval zebrafish gut segmentation for gut fluorescence (f
 
 We have improved upon [this](https://elifesciences.org/articles/43775) previous thresholding protocol for gut fluorescence quantification. Critically, EZgut does not face the problem of data loss in low feeding conditions.
 
-![Graphical abstract](./graphical_abstract.svg)
+![Graphical abstract](./graphical_abstract.png)
 
 See our publication for more details. (add link to paper)
 
