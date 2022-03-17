@@ -13,6 +13,9 @@ The Google Colab notebook [MaskPrediction_GutFluorescence](./MaskPrediction_Fluo
 
 Training data is available on request.
 
+### Citing EZgut
+If you use EZgut, please cite: (add link to paper)
+
 ### License
 See full license details [here](./LICENSE)
 
