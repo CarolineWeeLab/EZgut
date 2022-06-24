@@ -5,7 +5,7 @@ We have improved upon [this](https://elifesciences.org/articles/43775) previous 
 
 ![Graphical abstract](./graphical_abstract.png)
 
-See our publication for more details. (add link to paper)
+See our publication [Osmotic Stress Uncovers Correlations and Dissociations Between Larval Zebrafish Anxiety Endophenotypes](https://www.frontiersin.org/articles/10.3389/fnmol.2022.900223/full) for more details.
 
 We have trained Detectron2's [Pointrend](https://github.com/facebookresearch/detectron2/tree/main/projects/PointRend) on our custom dataset of brightfield images of larval zebrafish. The trained model is available via [Google Drive](https://drive.google.com/file/d/1-4Mr0_6xhiZh5QW7IjN8P-Jx1UKQBxbG/view?usp=sharing).
 
@@ -14,7 +14,7 @@ The Google Colab notebook [MaskPrediction_GutFluorescence](./MaskPrediction_Fluo
 Training data is available on request.
 
 ### Citing EZgut
-If you use EZgut, please cite: (add link to paper)
+If you use EZgut, please cite: [Osmotic Stress Uncovers Correlations and Dissociations Between Larval Zebrafish Anxiety Endophenotypes](https://www.frontiersin.org/articles/10.3389/fnmol.2022.900223/full)
 
 ### License
 See full license details [here](./LICENSE)
